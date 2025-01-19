@@ -1,2 +1,1 @@
-print("hello")
-print ("Madina Turkebay")
+print("Hello, World!")
