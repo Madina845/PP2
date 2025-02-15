@@ -1,7 +1,7 @@
 #Python Iterators
 #ex1-iter() method
 mytuple = ("apple", "banana", "cherry")
-myit = iter(mytuple)
+myit = iter(mytuple) 
 
 print(next(myit))
 print(next(myit))
